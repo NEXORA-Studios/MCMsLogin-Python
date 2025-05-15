@@ -11,12 +11,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="mc_ms_login",
     version="0.1.0",
-    author="PCL Community",
-    author_email="example@example.com",
+    author="NEXORA Studios",
+    author_email="jim.lin@nexora-studios.tech",
     description="Minecraft Microsoft 账户登录模块",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/MCMsLogin-Python",
+    url="https://github.com/NEXORA-Studios/MCMsLogin-Python",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

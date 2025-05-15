@@ -42,7 +42,6 @@ def main():
         print(f"登录失败: {result['error']}")
         if "details" in result:
             print(f"详细信息: {result['details']}")
-    
     return 0
 
 if __name__ == "__main__":
